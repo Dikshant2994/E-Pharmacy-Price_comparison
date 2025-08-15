@@ -67,6 +67,6 @@ Solution: Added logic to process only available options without errors.
 •	Challenge: Managing API call limits.
 Solution: Optimized queries to return only essential fields.
 ________________________________________
-Conclusion
+Conclusion:-
 This project enhanced my skills in API integration, real-time data handling, and interactive dashboard creation with Streamlit.
 It demonstrates how data science techniques can be applied to consumer-oriented price comparison systems, offering a practical solution to help people make informed purchasing decisions.
